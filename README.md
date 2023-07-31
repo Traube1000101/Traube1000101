@@ -1,7 +1,17 @@
-### Hi there 👋
+[![Traube's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Traube1000101&layout=compact)](https://wakatime.com/@Traube1000101)
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Traube1000101&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Traube1000101&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 <!--
-**Traube1000101/Traube1000101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
