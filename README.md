@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./ZeroTwoDancing.gif" align="left" width="33%"/>
+    <img src="./ZeroTwoDancing.gif" align="left" width="31%"/>
     <h1>Hey, i am Traube &#128578;</h1>
     I like to program, mostly in C++! Recently, I kinda fell in love with Java, more specifically JavaFX.  
     I also do some basic webdevelopment with HTML & CSS, for example my website <a href="https://www.Traube.xyz">Traube.xyz</a>.
@@ -29,7 +29,7 @@
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
                 srcset="https://github-readme-stats.vercel.app/api?username=Traube1000101&hide_rank=true&show_icons=true"
             />
-            <img width="32%" align="left" src="https://github-readme-stats.vercel.app/api?username=Traube1000101&hide_rank=true&show_icons=true"/>
+            <img width="33%" align="left" src="https://github-readme-stats.vercel.app/api?username=Traube1000101&hide_rank=true&show_icons=true"/>
         </picture>
         <picture>
             <source
@@ -40,7 +40,7 @@
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
                 srcset="https://github-readme-stats.vercel.app/api?username=Traube1000101&hide_rank=true&show_icons=true"
             />
-            <img width="32%" align="top" src="https://github-readme-stats.vercel.app/api?username=Traube1000101&hide_rank=true&show_icons=true"/>
+            <img width="33%" align="top" src="https://github-readme-stats.vercel.app/api?username=Traube1000101&hide_rank=true&show_icons=true"/>
         </picture>
     </p>
     <br clear="left"/>
