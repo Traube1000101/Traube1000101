@@ -44,6 +44,7 @@
         </picture>
     </p>
 <br clear="left"/>
+</p>
 
 ---
 
