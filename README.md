@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./ZeroTwoDancing.gif" align="left" width="29%"/>
+    <img src="./assets/ZeroTwoDancing.gif" align="left" width="29%"/>
     <h1>Hey, i am Traube &#128578;</h1>
     I like to program, mostly in C++! Recently, I kinda fell in love with Java, especially JavaFX.<br/>
     I also do some basic webdevelopment with HTML & CSS, for example my <a href="https://www.Traube.xyz">Website</a>.
@@ -43,8 +43,7 @@
             <img width="34%" align="top" src="https://github-readme-stats.vercel.app/api?username=Traube1000101&hide_rank=true&show_icons=true"/>
         </picture>
     </p>
-    <br clear="left"/>
-</p>
+<br clear="left"/>
 
 ---
 
