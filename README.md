@@ -40,7 +40,7 @@
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
                 srcset="https://github-readme-stats.vercel.app/api?username=Traube1000101&hide_rank=true&show_icons=true"
             />
-            <img width="33%" align="top" src="https://github-readme-stats.vercel.app/api?username=Traube1000101&hide_rank=true&show_icons=true"/>
+            <img width="32%" align="top" src="https://github-readme-stats.vercel.app/api?username=Traube1000101&hide_rank=true&show_icons=true"/>
         </picture>
     </p>
     <br clear="left"/>
