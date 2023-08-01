@@ -1,4 +1,4 @@
-<svg fill="none" height="300" viewBox="0 0 600 300" width="600" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 1200 1000" width="1200" height="1000" xmlns="http://www.w3.org/2000/svg">
     <foreignObject height="100%" width="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
@@ -28,38 +28,19 @@
                     flex-direction: column;
                     max-width: 100%;
                 }
-    
-    
-            
+                .container {
+                    display: flex;
+                }
+
             </style>
 
-            <div style="display: flex;">
+            <div class="container">
                 <img src="./ZeroTwoDancing.gif"/>
                 <div class="stats">
                     <h1>Hey, i am Traube!</h1>
                     <h2>I like to program stupid stuff.</h2>
-                    <picture>
-                        <source
-                            media="(prefers-color-scheme: dark)"
-                            srcset="https://github-readme-stats.vercel.app/api?username=Traube1000101&show_icons=true&theme=dark"
-                        />
-                        <source
-                            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-                            srcset="https://github-readme-stats.vercel.app/api?username=Traube1000101&show_icons=true"
-                        />
-                        <img src="https://github-readme-stats.vercel.app/api?username=Traube1000101&show_icons=true"/>
-                    </picture>
-                    <picture>
-                        <source
-                            media="(prefers-color-scheme: dark)"
-                            srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Traube1000101&layout=compact&theme=dark"
-                        />
-                        <source
-                            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-                            srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Traube1000101&layout=compact"
-                        />
-                        <img src="https://github-readme-stats.vercel.app/api?username=Traube1000101&show_icons=true"/>
-                    </picture>
+                    <img src="https://github-readme-stats.vercel.app/api?username=Traube1000101&amp;show_icons=true"/>
+                    <img src="https://github-readme-stats.vercel.app/api?username=Traube1000101&amp;show_icons=true"/>
                 </div>
             </div>
 
