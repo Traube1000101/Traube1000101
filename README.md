@@ -1,5 +1,5 @@
 <div>
-    <img src="./assets/ZeroTwoDancing.gif" align="left" width="32%"/>
+    <img src="./assets/ZeroTwoDancing.gif" align="left" width="33%"/>
     <div>
         <h1 align="center">Hey, i am Traube &#128578;</h1>
         I like to program, mostly in C++! Recently, I kinda fell in love with Java, especially JavaFX.<br/>
@@ -15,7 +15,7 @@
                     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
                     srcset="https://github-readme-stats.vercel.app/api/pin/?username=Traube1000101&repo=StealthyWhisperGUI&show_owner=true"
                 />
-                <img width="44%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Traube1000101&repo=StealthyWhisperGUI&show_owner=true"/>
+                <img width="42%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Traube1000101&repo=StealthyWhisperGUI&show_owner=true"/>
             </picture>
         </a>
         <br/>
@@ -30,7 +30,7 @@
                     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
                     srcset="https://github-readme-stats.vercel.app/api?username=Traube1000101&hide_rank=true&show_icons=true"
                 />
-                <img width="33%" align="left" src="https://github-readme-stats.vercel.app/api?username=Traube1000101&hide_rank=true&show_icons=true"/>
+                <img width="32%" align="left" src="https://github-readme-stats.vercel.app/api?username=Traube1000101&hide_rank=true&show_icons=true"/>
             </picture>
             <picture>
                 <source
@@ -41,7 +41,7 @@
                     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
                     srcset="https://github-readme-stats.vercel.app/api?username=Traube1000101&hide_rank=true&show_icons=true"
                 />
-                <img width="33%" align="top" src="https://github-readme-stats.vercel.app/api?username=Traube1000101&hide_rank=true&show_icons=true"/>
+                <img width="32%" align="top" src="https://github-readme-stats.vercel.app/api?username=Traube1000101&hide_rank=true&show_icons=true"/>
             </picture>
         </div>
     <br clear="left"/>
