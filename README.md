@@ -15,7 +15,7 @@
                     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
                     srcset="https://github-readme-stats.vercel.app/api/pin/?username=Traube1000101&repo=StealthyWhisperGUI&show_owner=true"
                 />
-                <img width="40%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Traube1000101&repo=StealthyWhisperGUI&show_owner=true"/>
+                <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Traube1000101&repo=StealthyWhisperGUI&show_owner=true"/>
             </picture>
         </a>
         <br/>
