@@ -1,9 +1,9 @@
-<p align="center">
+<div>
     <img src="./assets/ZeroTwoDancing.gif" align="left" width="31%"/>
-    <p>
-        <h1>Hey, i am Traube &#128578;</h1>
+    <div>
+        <h1 align="center">Hey, i am Traube &#128578;</h1>
         I like to program, mostly in C++! Recently, I kinda fell in love with Java, especially JavaFX.<br/>
-        I also do some basic webdevelopment with HTML & CSS, for example my <a href="https://www.Traube.xyz">Website</a>.
+        I also do some basic webdevelopment with HTML & CSS, e.g. look at my <a href="https://www.Traube.xyz">Website</a>.
         <h4>Check out my Project StealthyWhisper:</h4>
         <a href="../../../StealthyWhisperGUI">
             <picture>
@@ -20,7 +20,7 @@
         </a>
         <br/>
         <h4>My Github Stats and Languages i've used in my Repositorys:</h4>
-        <p align="center">
+        <div align="center">
             <picture>
                 <source
                     media="(prefers-color-scheme: dark)"
@@ -43,10 +43,10 @@
                 />
                 <img width="33%" align="top" src="https://github-readme-stats.vercel.app/api?username=Traube1000101&hide_rank=true&show_icons=true"/>
             </picture>
-        </p>
-    </p>
-<br clear="left"/>
-</p>
+        </div>
+    <br clear="left"/>
+    </div>
+</div>
 
 ---
 
