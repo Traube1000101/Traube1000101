@@ -1,5 +1,5 @@
 <div>
-    <img src="./assets/ZeroTwoDancing.gif" align="left" width="31%"/>
+    <img src="./assets/ZeroTwoDancing.gif" align="left" width="32%"/>
     <div>
         <h1 align="center">Hey, i am Traube &#128578;</h1>
         I like to program, mostly in C++! Recently, I kinda fell in love with Java, especially JavaFX.<br/>
@@ -15,7 +15,7 @@
                     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
                     srcset="https://github-readme-stats.vercel.app/api/pin/?username=Traube1000101&repo=StealthyWhisperGUI&show_owner=true"
                 />
-                <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Traube1000101&repo=StealthyWhisperGUI&show_owner=true"/>
+                <img width="44%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Traube1000101&repo=StealthyWhisperGUI&show_owner=true"/>
             </picture>
         </a>
         <br/>
