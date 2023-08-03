@@ -1,5 +1,5 @@
 <div>
-    <img src="./assets/ZeroTwoDancing.gif" align="left" width="33%"/>
+    <img src="./assets/ZeroTwoDancing.gif" align="right" width="33%"/>
     <div>
         <h1 align="center">Hey, i am Traube &#128578;</h1>
         I like to program, mostly in C++! Recently, I kinda fell in love with Java, especially JavaFX.<br/>
