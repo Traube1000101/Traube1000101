@@ -4,7 +4,7 @@
         <h1 align="center">Hey, i am Traube &#128578;</h1>
         I like to program, mostly in C++! Recently, I kinda fell in love with Java, especially JavaFX.<br/>
         I also do some basic webdevelopment with HTML & CSS, e.g. look at my <a href="https://www.Traube.xyz">Website</a>.
-        <h4 align="center">Check out my Project StealthyWhisper</h4>
+        <h3 align="center">Check out my Project StealthyWhisper</h4>
         <p align="center">
             <a href="../../../StealthyWhisperGUI">
                 <picture>
@@ -20,7 +20,7 @@
                 </picture>
             </a>
         </p>
-        <h4 align="center">My Github Stats and Languages i've used in my Repositorys</h4>
+        <h3 align="center">My Github Stats and Languages i've used in my Repositorys</h4>
         <div align="center">
             <picture>
                 <source
@@ -45,10 +45,13 @@
                 <img width="32%" align="top" src="https://github-readme-stats.vercel.app/api?username=Traube1000101&hide_rank=true&show_icons=true"/>
             </picture>
         </div>
-    <br clear="left"/>
     </div>
+    <br clear="left"/>
 </div>
 
 ---
-
+<a href="https://wakatime.com/@71d22b23-f875-461a-8f05-24a0e42d708e"><img align="right" src="https://wakatime.com/badge/user/71d22b23-f875-461a-8f05-24a0e42d708e.svg" title="My total time coded since Aug 1 2023" alt="Total time coded" /></a>
 ##### Credits to [Anurag Hazra](https://github.com/anuraghazra) for the amazing [Stats UI-Elements](https://github.com/anuraghazra/github-readme-stats).
+
+<!--           -->
+
