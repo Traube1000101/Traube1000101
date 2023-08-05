@@ -6,7 +6,7 @@
         I also do some basic webdevelopment with HTML & CSS, e.g. look at my <a href="https://www.Traube.xyz">Website</a>.
         <h3 align="center">Check out my Project StealthyWhisper</h4>
         <p align="center">
-            <a href="../../../StealthyWhisperGUI">
+            <a href="../../../StealthyWhisper">
                 <picture>
                     <source
                         media="(prefers-color-scheme: dark)"
