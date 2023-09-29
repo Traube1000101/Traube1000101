@@ -1,7 +1,7 @@
 <div>
     <img src="./assets/ZeroTwoDancing.gif" align="right" width="33%"/>
     <div>
-        <h1 align="center">Hey, i am Traube &#128578;</h1>
+        <h1 align="center">Hey, I am Traube &#128578;</h1>
         I like to program, mostly in C++! Recently, I kinda fell in love with Java, especially JavaFX.<br/>
         I also do some basic webdevelopment with HTML & CSS, e.g. look at my <a href="https://www.Traube.xyz">Website</a>.
         <h3 align="center">Check out my Project StealthyWhisper</h4>
@@ -20,7 +20,7 @@
                 </picture>
             </a>
         </p>
-        <h3 align="center">My Github Stats and Languages i've used in my Repositorys</h4>
+        <h3 align="center">My Github Stats and Languages I've used in my Repositorys</h4>
         <div align="center">
             <picture>
                 <source
