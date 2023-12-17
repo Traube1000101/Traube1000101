@@ -3,7 +3,7 @@
     <div>
         <h1 align="center">Hey, I am Traube &#128578;</h1>
         I like to program, mostly in C++! Recently, I kinda fell in love with Java, especially JavaFX.<br/>
-        I also do some basic webdevelopment with HTML & CSS, e.g. look at this <a href="https://wip.Traube.xyz">Website</a>.
+        I also do some basic webdevelopment with HTML & CSS, e.g. look at this <a href="https://zerotwo.Traube.xyz">Website</a>.
         <h3 align="center">Check out my Project StealthyWhisper</h4>
         <p align="center">
             <a href="../../../StealthyWhisper">
