@@ -4,23 +4,23 @@
         <h1 align="center">Hey, I am Traube &#128578;</h1>
         I like to program, mostly in C++! Recently, I kinda fell in love with Java, especially JavaFX.<br/>
         I also do some basic webdevelopment with HTML & CSS, e.g. look at this <a href="https://zerotwo.Traube.xyz">Website</a>.
-        <h3 align="center">Check out my Project StealthyWhisper</h4>
+        <h4 align="center">Check out Quantum, the project my friend and i are currently working on:</h4>
         <p align="center">
             <a href="../../../StealthyWhisper">
                 <picture>
                     <source
                         media="(prefers-color-scheme: dark)"
-                        srcset="https://github-readme-stats.vercel.app/api/pin/?username=Traube1000101&repo=StealthyWhisperGUI&show_owner=true&theme=github_dark_dimmed"
+                        srcset="https://github-readme-stats.vercel.app/api/pin/?username=imnak&repo=quantum&show_owner=true&theme=github_dark_dimmed"
                     />
                     <source
                         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-                        srcset="https://github-readme-stats.vercel.app/api/pin/?username=Traube1000101&repo=StealthyWhisperGUI&show_owner=true"
+                        srcset="https://github-readme-stats.vercel.app/api/pin/?username=imnak&repo=quantum&show_owner=true"
                     />
-                    <img width="42%" src="https://github-readme-stats.vercel.app/api/pin/?username=Traube1000101&repo=StealthyWhisperGUI&show_owner=true"/>
+                    <img width="42%" src="https://github-readme-stats.vercel.app/api/pin/?username=imnak&repo=quantum&show_owner=true"/>
                 </picture>
             </a>
         </p>
-        <h3 align="center">My Github Stats and Languages I've used in my Repositorys</h4>
+        <h4 align="center">My Github Stats and Languages I've used in my Repositorys</h4>
         <div align="center">
             <picture>
                 <source
