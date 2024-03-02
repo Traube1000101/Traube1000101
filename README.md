@@ -6,7 +6,7 @@
         I also do some basic webdevelopment with HTML & CSS, e.g. look at this <a href="https://zerotwo.Traube.xyz">Website</a>.
         <h4 align="center">Check out Quantum, the project my friend and i are currently working on:</h4>
         <p align="center">
-            <a href="../../../StealthyWhisper">
+            <a href="../../../../imnaK/quantum">
                 <picture>
                     <source
                         media="(prefers-color-scheme: dark)"
