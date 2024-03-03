@@ -14,7 +14,8 @@
           -webkit-box-sizing: border-box;
           box-sizing: border-box;
         }
-        @-webkit-keyframes smiley {
+
+        @-webkit-keyframes rotate {
           0% {
             -webkit-transform: rotate(0deg);
             transform: rotate(0deg);
@@ -24,7 +25,8 @@
             transform: rotate(360deg);
           }
         }
-        @keyframes smiley {
+
+        @keyframes rotate {
           0% {
             -webkit-transform: rotate(0deg);
             transform: rotate(0deg);
@@ -78,8 +80,8 @@
           display: -ms-flexbox;
           display: flex;
           -webkit-box-align: center;
-          -ms-flex-align: center;
-          align-items: center;
+              -ms-flex-align: center;
+                  align-items: center;
           font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI',
             'Noto Sans', Helvetica, Arial, sans-serif, 'Apple Color Emoji',
             'Segoe UI Emoji';
@@ -90,8 +92,8 @@
         .smiley {
           position: relative;
           margin-left: 20px;
-          -webkit-animation: smiley 5s linear -0.5s infinite;
-          animation: smiley 5s linear -0.5s infinite;
+          -webkit-animation: rotate 5s linear -0.5s infinite;
+                  animation: rotate 5s linear -0.5s infinite;
           display: inline-block;
         }
 
@@ -99,21 +101,21 @@
           position: absolute;
           top: 50%;
           left: 50%;
-          -webkit-animation: change 16s linear infinite;
-          animation: change 16s linear infinite;
+          -webkit-animation: change 10s linear infinite;
+                  animation: change 10s linear infinite;
           -webkit-transform: translate(-50%, -55%);
-          -ms-transform: translate(-50%, -55%);
-          transform: translate(-50%, -55%);
+              -ms-transform: translate(-50%, -55%);
+                  transform: translate(-50%, -55%);
         }
 
         .smiley p:nth-child(1) {
           -webkit-animation-delay: 0s;
-          animation-delay: 0s;
+                  animation-delay: 0s;
         }
 
         .smiley p:nth-child(2) {
-          -webkit-animation-delay: 8s;
-          animation-delay: 8s;
+          -webkit-animation-delay: 5s;
+                  animation-delay: 5s;
         }
 
         @-webkit-keyframes change {
