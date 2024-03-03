@@ -1,7 +1,7 @@
 <img align="right" src="./assets/ZeroTwoDancing.gif" width="33%" />
 <div>
   <div align="center">
-    <img src="./assets/title.svg" width="50%" alt="Click to see the source" />
+    <img src="./assets/title.svg" width="50%" />
   </div>
   I like to program, mostly in C++! Recently, I kinda fell in love with Java, especially JavaFX.<br />
   I also do some basic webdevelopment with HTML & CSS, e.g. look at this
