@@ -1,0 +1,125 @@
+<svg
+  fill="none"
+  viewBox="0 0 210 35"
+  width="210"
+  height="35"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        * {
+          margin: unset;
+          padding: unset;
+          -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+        }
+        @-webkit-keyframes smiley {
+          0% {
+            -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+          }
+          100% {
+            -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+          }
+        }
+        @keyframes smiley {
+          0% {
+            -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+          }
+          100% {
+            -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+          }
+        }
+
+        @-webkit-keyframes text-gradient {
+          0% {
+            background-position: 0% 75%;
+          }
+          50% {
+            background-position: 100% 25%;
+          }
+          100% {
+            background-position: 0% 75%;
+          }
+        }
+        @keyframes text-gradient {
+          0% {
+            background-position: 0% 75%;
+          }
+          50% {
+            background-position: 100% 25%;
+          }
+          100% {
+            background-position: 0% 75%;
+          }
+        }
+
+        p:not(.smiley > p) {
+          background: -o-linear-gradient(200deg, #ff055e, #b000b5, #11ccee);
+          background: linear-gradient(250deg, #ff055e, #b000b5, #11ccee);
+          background-size: 500% 500%;
+
+          -webkit-animation: text-gradient 28s ease infinite;
+          animation: text-gradient 28s ease infinite;
+
+          -webkit-background-clip: text;
+          background-clip: text;
+
+          -webkit-text-fill-color: transparent;
+          color: #0000;
+        }
+
+        .container {
+          display: -webkit-box;
+          display: -ms-flexbox;
+          display: flex;
+          -webkit-box-pack: center;
+          -ms-flex-pack: center;
+          justify-content: center;
+          -webkit-box-align: center;
+          -ms-flex-align: center;
+          align-items: center;
+
+          font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI',
+            'Noto Sans', Helvetica, Arial, sans-serif, 'Apple Color Emoji',
+            'Segoe UI Emoji';
+          font-weight: bolder;
+          font-size: 22px;
+        }
+
+        .smiley {
+          margin-bottom: 2.5px;
+          margin-left: auto;
+          -webkit-animation: smiley 5s linear -0.5s infinite;
+          animation: smiley 5s linear -0.5s infinite;
+          display: inline-block;
+          -webkit-transform-origin: 50% 55%;
+          -ms-transform-origin: 50% 55%;
+          transform-origin: 50% 55%;
+        }
+
+        @media (prefers-reduced-motion) {
+          p {
+            -webkit-animation: none;
+            animation: none;
+          }
+          .smiley {
+            -webkit-animation: none;
+            animation: none;
+          }
+        }
+      </style>
+      <div class="container">
+        <p>Hey, I am Traube</p>
+        <div class="smiley">
+          <p>😃</p>
+          <!-- <p>🐈</p> -->
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
