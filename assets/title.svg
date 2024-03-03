@@ -77,13 +77,9 @@
           display: -webkit-box;
           display: -ms-flexbox;
           display: flex;
-          -webkit-box-pack: center;
-          -ms-flex-pack: center;
-          justify-content: center;
           -webkit-box-align: center;
           -ms-flex-align: center;
           align-items: center;
-
           font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI',
             'Noto Sans', Helvetica, Arial, sans-serif, 'Apple Color Emoji',
             'Segoe UI Emoji';
@@ -92,14 +88,54 @@
         }
 
         .smiley {
-          margin-bottom: 2.5px;
-          margin-left: auto;
+          position: relative;
+          margin-left: 20px;
           -webkit-animation: smiley 5s linear -0.5s infinite;
           animation: smiley 5s linear -0.5s infinite;
           display: inline-block;
-          -webkit-transform-origin: 50% 55%;
-          -ms-transform-origin: 50% 55%;
-          transform-origin: 50% 55%;
+        }
+
+        .smiley p {
+          position: absolute;
+          top: 50%;
+          left: 50%;
+          -webkit-animation: change 16s linear infinite;
+          animation: change 16s linear infinite;
+          -webkit-transform: translate(-50%, -55%);
+          -ms-transform: translate(-50%, -55%);
+          transform: translate(-50%, -55%);
+        }
+
+        .smiley p:nth-child(1) {
+          -webkit-animation-delay: 0s;
+          animation-delay: 0s;
+        }
+
+        .smiley p:nth-child(2) {
+          -webkit-animation-delay: 8s;
+          animation-delay: 8s;
+        }
+
+        @-webkit-keyframes change {
+          0%,
+          50% {
+            visibility: hidden;
+          }
+          50.1%,
+          100% {
+            visibility: visible;
+          }
+        }
+
+        @keyframes change {
+          0%,
+          50% {
+            visibility: hidden;
+          }
+          50.1%,
+          100% {
+            visibility: visible;
+          }
         }
 
         @media (prefers-reduced-motion) {
@@ -116,8 +152,8 @@
       <div class="container">
         <p>Hey, I am Traube</p>
         <div class="smiley">
+          <p>🐈</p>
           <p>😃</p>
-          <!-- <p>🐈</p> -->
         </div>
       </div>
     </div>
