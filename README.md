@@ -48,9 +48,7 @@
 <div>
     &emsp;
     </br>
-    &emsp;&nbsp;<a href="https://wonderful.dev/Traube"><img alt="wonderful.dev/Traube" src="https://img.shields.io/badge/wonderful.dev%2FTraube-%23555?style=flat"></a>
-    </br>
-    <a href="https://wakatime.com/@71d22b23-f875-461a-8f05-24a0e42d708e"><img src="https://wakatime.com/badge/user/71d22b23-f875-461a-8f05-24a0e42d708e.svg" title="My total time coded since Aug 1 2023" alt="Total time coded" /></a>
+    <a href="https://wonderful.dev/Traube"><img alt="wonderful.dev/Traube" src="https://img.shields.io/badge/wonderful.dev%2FTraube-%23555?style=flat"></a>&emsp;<a href="https://wakatime.com/@71d22b23-f875-461a-8f05-24a0e42d708e"><img src="https://wakatime.com/badge/user/71d22b23-f875-461a-8f05-24a0e42d708e.svg" title="My total time coded since Aug 1 2023" alt="Total time coded" /></a>
 </div>
 
 <h5 align="left">&emsp;Credits to <a href="https://github.com/anuraghazra">Anurag Hazra</a> for the amazing <a href="https://github.com/anuraghazra/github-readme-stats">Stats</a>.</h5>
