@@ -1,0 +1,3 @@
+[submodule "html2svg"]
+	path = html2svg
+	url = https://github.com/Traube1000101/html2svg
