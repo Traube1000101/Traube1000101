@@ -1,12 +1,12 @@
 <svg
   fill="none"
-  viewBox="0 0 230 35"
-  width="230"
+  viewBox="0 0 250 35"
+  width="250"
   height="35"
   xmlns="http://www.w3.org/2000/svg"
 >
   <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
+    <html xmlns="http://www.w3.org/1999/xhtml">
       <style>
         * {
           margin: unset;
@@ -25,7 +25,6 @@
             transform: rotate(360deg);
           }
         }
-
         @keyframes rotate {
           0% {
             -webkit-transform: rotate(0deg);
@@ -36,7 +35,6 @@
             transform: rotate(360deg);
           }
         }
-
         @-webkit-keyframes text-gradient {
           0% {
             background-position: 0% 75%;
@@ -59,20 +57,16 @@
             background-position: 0% 75%;
           }
         }
-
         p:not(.smiley > p) {
           background: -o-linear-gradient(200deg, #ff055e, #b000b5, #11ccee);
           background: linear-gradient(250deg, #ff055e, #b000b5, #11ccee);
           background-size: 500% 500%;
-
           -webkit-animation: text-gradient 28s ease infinite;
           animation: text-gradient 28s ease infinite;
-
           -webkit-background-clip: text;
           background-clip: text;
-
           -webkit-text-fill-color: transparent;
-          color: #0000;
+          color: rgba(0, 0, 0, 0);
         }
 
         .container {
@@ -86,9 +80,9 @@
           -webkit-box-pack: center;
           -ms-flex-pack: center;
           justify-content: center;
-          font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI',
-            'Noto Sans', Helvetica, Arial, sans-serif, 'Apple Color Emoji',
-            'Segoe UI Emoji';
+          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
+            "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji",
+            "Segoe UI Emoji";
           font-weight: bolder;
           font-size: 20px;
         }
@@ -106,45 +100,38 @@
           position: absolute;
           top: 50%;
           left: 50%;
-          -webkit-animation: change 10s linear infinite;
-          animation: change 10s linear infinite;
-          -webkit-transform: translate(-50%, -55%);
-          -ms-transform: translate(-50%, -55%);
+          animation: change 15s linear infinite;
           transform: translate(-50%, -55%);
         }
 
         .smiley p:nth-child(1) {
-          -webkit-animation-delay: 0s;
+          visibility: hidden;
           animation-delay: 0s;
         }
 
         .smiley p:nth-child(2) {
-          -webkit-animation-delay: 5s;
           animation-delay: 5s;
         }
 
-        @-webkit-keyframes change {
-          0%,
-          50% {
-            visibility: hidden;
-          }
-          50.1%,
-          100% {
-            visibility: visible;
-          }
+        .smiley p:nth-child(3) {
+          visibility: hidden;
+          animation-delay: 10s;
         }
 
         @keyframes change {
           0%,
-          50% {
+          33% {
             visibility: hidden;
           }
-          50.1%,
-          100% {
+          33.1%,
+          66% {
             visibility: visible;
           }
+          66.1%,
+          100% {
+            visibility: hidden;
+          }
         }
-
         @media (prefers-reduced-motion) {
           p {
             -webkit-animation: none;
@@ -161,8 +148,9 @@
         <div class="smiley">
           <p>🐈</p>
           <p>🙂</p>
+          <p>🍇</p>
         </div>
       </div>
-    </div>
+    </html>
   </foreignObject>
 </svg>
