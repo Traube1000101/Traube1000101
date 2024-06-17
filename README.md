@@ -39,4 +39,4 @@
   /></a>
 </div>
 
-<h5 align="left">Credits to <a href="https://github.com/anuraghazra">Anurag Hazra</a> for the great <a href="https://github.com/anuraghazra/github-readme-stats">Stats</a>.</h5>
+<h5 align="left">Credits to <a href="https://github.com/anuraghazra">Anurag Hazra</a> for the <a href="https://github.com/anuraghazra/github-readme-stats">Stats</a>.</h5>
