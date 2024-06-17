@@ -3,10 +3,11 @@
   <div align="center">
     <img src="./assets/title.svg" width="66%" />
   </div>
-  I like to program, mostly in C++! Recently, I kinda fell in love with Java, especially JavaFX.<br />
-  I also do some basic webdevelopment with HTML & CSS, e.g. look at this
-  <a href="https://zerotwo.Traube.xyz">Website</a>.
-  <h4 align="center">Check out Quantum, the project my friend and i are currently working on:</h4>
+  I love computers and anything related to them very much, honestly a bit too much sometimes!
+  I have some programming skills in C++, Java, Bash, JavaScript, and I recently started learning Go.
+  I also do basic web development with React/Preact.
+
+  <h4 align="center">Check out Quantum, the project my friend and i were working on:</h4>
   <p align="center">
     <a href="../../../../imnaK/quantum">
       <picture>
@@ -16,7 +17,7 @@
       </picture>
     </a>
   </p>
-  <h4 align="center">My Github Stats and Languages I've used in my Repositorys</h4>
+  <h4 align="center">My Github Stats and Languages I've used in my Repositories</h4>
 </div>
 <div>
   <picture>
@@ -38,4 +39,4 @@
   /></a>
 </div>
 
-<h5 align="left">Credits to <a href="https://github.com/anuraghazra">Anurag Hazra</a> for the amazing <a href="https://github.com/anuraghazra/github-readme-stats">Stats</a>.</h5>
+<h5 align="left">Credits to <a href="https://github.com/anuraghazra">Anurag Hazra</a> for the great <a href="https://github.com/anuraghazra/github-readme-stats">Stats</a>.</h5>
