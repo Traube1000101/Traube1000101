@@ -11,9 +11,9 @@
   <p align="center">
     <a href="../../../../imnaK/quantum">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=imnak&repo=quantum&show_owner=true&theme=github_dark_dimmed" />
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=imnak&repo=quantum&show_owner=true" />
-        <img width="42%" src="https://github-readme-stats.vercel.app/api/pin/?username=imnak&repo=quantum&show_owner=true" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=imnak&repo=quantum&show_owner=true&title_color=E30B5D&icon_color=E30B5D&theme=github_dark_dimmed" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=imnak&repo=quantum&show_owner=true&title_color=E30B5D&icon_color=E30B5D" />
+        <img width="42%" src="https://github-readme-stats.vercel.app/api/pin/?username=imnak&repo=quantum&show_owner=true&title_color=E30B5D&icon_color=E30B5D" />
       </picture>
     </a>
   </p>
@@ -21,21 +21,21 @@
 </div>
 <div>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Traube1000101&custom_title=My&nbsp;Stats&hide_rank=true&show_icons=true&theme=github_dark_dimmed" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=Traube1000101&hide_rank=true&show_icons=true" />
-    <img width="31%" align="left" src="https://github-readme-stats.vercel.app/api?username=Traube1000101&hide_rank=true&show_icons=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Traube1000101&custom_title=Stats&hide_rank=true&show_icons=true&title_color=E30B5D&icon_color=E30B5D&theme=github_dark_dimmed" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=Traube1000101&hide_rank=true&show_icons=true&title_color=E30B5D&icon_color=E30B5D" />
+    <img width="31%" align="left" src="https://github-readme-stats.vercel.app/api?username=Traube1000101&hide_rank=true&show_icons=true&title_color=E30B5D&icon_color=E30B5D" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Traube1000101&custom_title=Repo&nbsp;Languages&hide_rank=true&theme=github_dark_dimmed" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=Traube1000101&hide_rank=true&show_icons=true" />
-    <img width="31%" align="left" src="https://github-readme-stats.vercel.app/api?username=Traube1000101&hide_rank=true&show_icons=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Traube1000101&custom_title=Repo&nbsp;Languages&hide_rank=true&layout=compact&langs_count=8&title_color=E30B5D&theme=github_dark_dimmed" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=Traube1000101&hide_rank=true&layout=compact&langs_count=8&title_color=E30B5D" />
+    <img width="31%" align="left" src="https://github-readme-stats.vercel.app/api?username=Traube1000101&hide_rank=true&layout=compact&langs_count=8&title_color=E30B5D" />
   </picture>
 </div>
 <div>
   &emsp;
   <br />
-  <a href="https://wonderful.dev/Traube"><img alt="wonderful.dev/Traube" src="https://img.shields.io/badge/wonderful.dev-%23555?style=flat" /></a>&nbsp;<a href="https://wakatime.com/@71d22b23-f875-461a-8f05-24a0e42d708e"
-    ><img src="https://wakatime.com/badge/user/71d22b23-f875-461a-8f05-24a0e42d708e.svg" title="My total time coded since Aug 1 2023" alt="Total time coded"
+  <a href="https://wonderful.dev/Traube"><img alt="wonderful.dev/Traube" src="https://img.shields.io/badge/wonderful.dev-%23555?style=flat&color=24292F" /></a>&nbsp;<a href="https://wakatime.com/@71d22b23-f875-461a-8f05-24a0e42d708e"
+    ><img src="https://wakatime.com/badge/user/71d22b23-f875-461a-8f05-24a0e42d708e.svg?style=flat&color=24292F" title="My total time coded since Aug 1 2023" alt="Total time coded"
   /></a>
 </div>
 
