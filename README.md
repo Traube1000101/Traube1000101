@@ -4,8 +4,7 @@
     <img src="./assets/title.svg" width="66%" />
   </div>
   I love computers and anything related to them very much, honestly a bit too much sometimes!
-  I have some programming skills in C++, Java, Bash, JavaScript, and I recently started learning Go.
-  I also do basic web development with React/Preact.
+  I have some programming skills in C++, Java, Bash, JavaScript, and I recently started with Rust.
 
   <h4 align="center">Check out Quantum, the project my friend and i were working on:</h4>
   <p align="center">
